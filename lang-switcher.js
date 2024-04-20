@@ -1,6 +1,6 @@
 //const langArr= require("./lang.js")
-//import { langArr } from "./lang";
-
+//import { langArr } from "./lang"; efjnenkneknkfeknwkfnefke
+let val =0
 
 const langArr = {
     "unit": {
